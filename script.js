@@ -12,5 +12,5 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
             }
         }, 100);
     };
-    sendResponse({ status: "success" });
+    sendResponse({ status: true });
 });
