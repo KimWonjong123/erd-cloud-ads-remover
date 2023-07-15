@@ -7,3 +7,5 @@
 3. Click `Load unpacked`
 4. Select directory where cloned this repository
 5. Enjoy!
+
+### Use this extenion along with Ad Block
