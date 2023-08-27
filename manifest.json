@@ -7,7 +7,6 @@
       "tabs",
       "activeTab",
       "scripting",
-      "webRequest",
       "webNavigation"
     ],
     "host_permissions": [
